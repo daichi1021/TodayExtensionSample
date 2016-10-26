@@ -4,14 +4,39 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Model.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
 		<key>SalesforceSampleApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TodayTaskExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>D11398B91DBF1FB700CBB04C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D11398CB1DBF20BA00CBB04C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D11398D31DBF20BA00CBB04C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>D19967B51DBE06C6006BEA1A</key>
 		<dict>
 			<key>primary</key>
@@ -23,6 +48,11 @@
 			<true/>
 		</dict>
 		<key>D19967D41DBE06C6006BEA1A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D1A77EFE1DBEF54300FE7BE2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
